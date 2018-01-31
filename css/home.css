@@ -1,0 +1,86 @@
+body {
+	font-family: "Roboto";
+}
+
+.navbar-inverse {
+    background-color: #5A5D9D;
+    border-color: #5A5D9D;
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #390050;
+    font-family: "Roboto";
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+
+}
+
+.btn-settings {
+    margin-top: 15px;
+}
+
+.well-profile {
+	background-color: #6BC5D2;
+
+}
+
+.well-info {
+	background-color: #E1F5F2;
+}
+
+.panel-body {
+    padding: 40px;
+    background-color: #f1f1f1;
+    border: 1px solid white;
+    margin-bottom: 40px;
+    box-shadow: 1px 5px 5px #cccccc;
+    font-family: "Roboto";
+}
+
+.form-control {
+	background-color: #fff;
+	border: 0px solid #fff;
+}
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f1f1f1;
+    border: 0px solid #fff;
+    border-radius: 0px;
+    box-shadow: 1px 5px 5px #cccccc;
+    font-family: "Roboto";
+}
+
+.column {
+  background-color: #6BC5D2;
+}
+
+.thumbnail {
+  background-color: #E1F5F2;
+  border: 1px solid #E1F5F2;
+}
+
+
+.checked {
+  color: gold;
+}
+
+.asistir {
+  color: white;
+  background: #5A5D9D;
+  padding: 4px 15px 4px 15px;
+border-radius: 5px;
+}
+
+footer {
+  background-color: #5A5D9D;
+  color: white;
+  padding: 15px;
+}
